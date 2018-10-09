@@ -1,12 +1,9 @@
 # Stefan's Career Achievements
-This is a running list of my career achievements.  All the really specific stuff I did at various jobs that might not fit well on a resume.
-
 
 ```
 ********************************************************************************
-                            Stefan Antonowicz - Career
-                            PHP, Python, MySQL/Aurora, CouchDB, MongoDB, jQuery
-                            Angular, Redis, Node.js, Grunt/Jenkins/Puppet, AWS
+Stefan Antonowicz - Career
+This is a running list of my career achievements.  All the really specific stuff I did at various jobs that won't fit on my resume
 ********************************************************************************
 ```
 
