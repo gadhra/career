@@ -3,7 +3,8 @@
 ```
 ********************************************************************************
 Stefan Antonowicz - Career
-This is a running list of my career achievements.  All the really specific stuff I did at various jobs that won't fit on my resume
+This is a running list of my career achievements.  
+All the really specific stuff I did at various jobs that won't fit on my resume
 ********************************************************************************
 ```
 
