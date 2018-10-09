@@ -52,7 +52,7 @@ All the really specific stuff I did at various jobs that won't fit on my resume
 
 * Game credits include: The Walking Dead (PC, Mac, Steam, iOS, XBox, PS3); Law and Order: Legacies (iOS, PC, Mac); Jurassic Park (PC, iOS, PS3, XBox); the mini-game "Whack da Ratz" in  Sam & Max Beyond Time and Space Ep 1; and Puzzle Agent 2 (iOS)
 * Grew the web-team from one senior developer to six members (2 senior engineers, 1 Art Director, 1 Junior Designer, 1 QA Specialist, and 1 Project Manager).  Implemented Agile methodologies, most notably a Continuous Integration process using Hudson as well as static front-end page caching via Node.js and Hogan
-* Created Telltale's web services offerings by writing a lightweight PHP-based API to handle authentication, caching, notifications, and the saving of large, unstructured datasets to NoSQL (CouchDB) data shards.  API also allowed for DLC and game patching.
+* Created Telltale's web services for game integration by writing a lightweight PHP-based API to handle authentication, caching, notifications, and the saving of large, unstructured datasets to NoSQL (CouchDB) data shards.  API also allowed for DLC and game patching.
 * Managed and development of complete website redesign, including eCommerce solution for purchasing physical and digital goods; a fully functional message board with advanced moderation; and integration with accounts in the game environment (activities taken in a game would be reflected in your profile on the website)
 * Implemented document-oriented database (CouchDB) to augment LAMP-based technology framework. Wrote Python scripts to help in management of this database, including web-enabled scripts using WSGI
 * Converted stand-alone, Loebner Prize winning chatbot to a socket-based web service
