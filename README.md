@@ -5,7 +5,8 @@ This is a running list of my career achievements.  All the really specific stuff
 ```
 ********************************************************************************
                             Stefan Antonowicz - Career
-    PHP, Python, MySQL/Aurora, CouchDB, MongoDB, jQuery, Angular, Redis, Node.js, Grunt/Jenkins/Puppet, AWS
+                            PHP, Python, MySQL/Aurora, CouchDB, MongoDB, jQuery
+                            Angular, Redis, Node.js, Grunt/Jenkins/Puppet, AWS
 ********************************************************************************
 ```
 
@@ -40,9 +41,13 @@ This is a running list of my career achievements.  All the really specific stuff
 
 ## WIRED
 
-* Managed website running on Wordpress core, receiving ~24m unique visitors and serving up ~100m pageviews / month.  Spearheaded the Pangea Project, consolidating 17 disparate blogs into one to eliminate extreme technical debt built up over the last 20 years.
-* Tripled size of web team.  Managed  frontend developers, backend developers, and project managers.  Mentored junior and senior developers.  Introduced Agile development methodologies and bug / enhancement prioritization and tracking. Built full development environment, including the implementation of vagrant virtual machines, Grunt, and Jenkins
-* Worked closely with Editor in Chief (online), Director of Product Management, and GM of Sales to implement strategic technologies to support both ad sales and world-class editorial content.  Worked with technical team at Conde Nast (New York, NY) to mesh brand priorities with corporate mandates and efforts.  
+* Spearheaded the Pangea Project, consolidating 17 disparate blogs into one to eliminate a fascinating amount of technical debt.  Read my [post-mortem memo](https://github.com/gadhra/career/blob/master/pangea_memo.md) for more information.
+* Managed website running on Wordpress core, receiving ~24m unique visitors and serving up ~100m pageviews / month.  
+* Helped to architect and develop the Station to Station website - a fully immersive website in the vein of the NY Times "Snow Fall".  This was the first site of its type on wired.com
+* Tripled size of web team.  Managed  frontend developers, backend developers, and project managers.  Mentored junior and senior developers.  
+* Introduced Agile development methodologies and bug / enhancement prioritization and tracking. 
+* Built full development environment, including the implementation of vagrant virtual machines, Grunt, and Jenkins
+* Worked closely with Editor in Chief (online), Director of Product Management, and GM of Sales to implement strategic technologies to support both ad sales and world-class editorial content.  Worked with technical team at Conde Nast (New York, NY) to mesh brand priorities with corporate mandates and efforts.
 
 
 ## Telltale Games
@@ -50,10 +55,10 @@ This is a running list of my career achievements.  All the really specific stuff
 * Game credits include: The Walking Dead (PC, Mac, Steam, iOS, XBox, PS3); Law and Order: Legacies (iOS, PC, Mac); Jurassic Park (PC, iOS, PS3, XBox); the mini-game "Whack da Ratz" in  Sam & Max Beyond Time and Space Ep 1
 * Grew the web-team from one senior developer to six members (2 senior engineers, 1 Art Director, 1 Junior Designer, 1 QA Specialist, and 1 Project Manager).  Implemented Agile methodologies, most notably a Continuous Integration process using Hudson as well as static front-end page caching via Node.js and Hogan
 * Created Telltale's web services offerings by writing a lightweight PHP-based API to handle authentication, caching, notifications, and the saving of large, unstructured datasets to NoSQL (CouchDB) data shards.  API also allowed for DLC and game patching.
+* Managed and development of complete website redesign, including eCommerce solution for purchasing physical and digital goods; a fully functional message board with advanced moderation; and integration with accounts in the game environment (activities taken in a game would be reflected in your profile on the website)
 * Implemented document-oriented database (CouchDB) to augment LAMP-based technology framework. Wrote Python scripts to help in management of this database, including web-enabled scripts using WSGI
 * Converted stand-alone, Loebner Prize winning chatbot to a socket-based web service
 * Architected and took lead development of a new web server architecture, including addition of a MySQL master/slave, an app / messaging server, and CouchDB shards for mining of game data
-* Managed and lead development of complete website redesign, including eCommerce solution for purchasing physical and digital goods.
 * Implemented a notification server using redis to distribute messaging to multiple platforms, including the web
 
 ## MAKE Magazine (O'Reilly)
@@ -86,10 +91,28 @@ senior web designer both remotely and locally.
 ## Vespa Technologies Consulting
 
 #### Marvel LLC
+* Initially hired to rebuild a broken RedHat machine with a bad boot sector.  Machine rebuilt and files saved
+* Created Marvel's first online message board in PHP, including a new authentication system and advanced moderation
+* Deep code review and debugging of legacy PHP code
+* Worked on first iteration of what would eventually be the Marvel Comics Viewer.  This first iteration allowed for a comic to be read panel-by-panel online, with zoom and paging between panels (ed: keep in mind this was before apps were even a possibility!)
 
 #### Zerve
+* Contracted to design and implement PHP, Javascript, and HTML programs based on existing wireframes and database. 
+* Worked in a collaborative environment with President, two Technology Consultants, Lead Developer, Project Manager, two Senior Developers, three UI staff, and one Junior Developer
+* Built fully functional LAMP driven site including secure login, shopping cart, transaction processing, and complex inventory management from wireframes and workflows  under anticipation of very heavy traffic.
+* Responsible for deliverables on weekly builds and for meeting very aggressive project goals.
+* Managed Junior Developer to ensure timely deliverables and effective team communication.
 
-#### Wize.com
+
+#### Elephant Ventures
+* Performed Salesforce implementation and configuration for brokers in Fortune 500 real estate company (Prudential Douglas Elliman)
+* Implemented and integrated AboveAll software with Salesforce via WSDL data feed
+* Scripted Windows binaries to assist marketing staff in day-to-day activities
+* Repaired broken and mis-coded PHP applications on EV client websites
+* Repaired broken and mis-coded ColdFusion applications on EV client websites
+* Architectd and implemented PHP solutions for EV clients
+* Built one-click Search Engine Optimization application to pull website rankings from Google, Yahoo, and MSN, using cURL and SOAP
+* Implemented Miva Merchant solution for client attempting to establish on-line presence in NYC
 
 #### Greendimes / Tonic
 * Got up to speed on coding and practices within one week and was able to advise Director of Engineering and CEO concerning company roadmap for Q4 2007 and Q1 2008.
