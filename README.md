@@ -87,10 +87,21 @@ senior web designer both remotely and locally.
 * Wrote two iterations of a home grown CMS to assist team of 13 employees in managing their client load. Expanded margin on customers they were responsible for managing by 30%
 * Managed entire project process, including management of bug tracking software (Bugzilla), metrics of success in bug fixes, assisting in writing PRDs, writing wireframes and data models, setting and enforcing deadlines, and delivering top-of-the line projects on time and under budget.
 
+## Village Voice Media
+* Senior Web Developer in 3-man team. During my time there, the Village Voice website increased its traffic to 6 million visitors/month, and was nominated for its first Webby Award.
+* Built full "adult" website for Village Voice including events calendar, image/photo upload and sizing classes, RSS syndication, and login
+* Took over as Executive Manager for Technical Support for the annual Pazz & Jop music critics poll for both 2005 and 2006. This poll was the largest of its kind, allowing for free-form data entry by critics voting for their favorite albums. Rebuilt entire system to allow for greater management, flexibility, and stability. Developed and implemented cron-based soundex and metaphonic matching of title/artist/label names entered by critics, AJAX interfaces for administrators to perform on-the-fly matching of critic entries with existing albums in database, "sanity checking" to backend processes (bringing error rate of entries to zero), and "advanced" searching to augment existing GSA integration.
+* Heavy re-configuration and integration of SugarCRM (an Open Source CRM tool similar to SalesForce) into existing corporate structure. Rewrite was entirely in OO PHP and JSON.
+* After failure of sync'ing between different web servers, wrote Python-based tools to send failure and usage alerts to management.
+* Part of two-man team that added photo gallery functionality on villagevoice.com website.
+* Configured headers in villagevoice.com website to obtain low-hanging fruit for SEO. Configured GSA and modified XSLT for displaying Village Voice search data. Three months after configuration was completed, saw a consistent increase in web traffic by 25%
+* Introduced concept of Podcasting to organization. Recorded two podcasts a week (Michael Musto, Robert Christgau) using SoundForge and Audacity. At the time, the podcasts generated roughly 10% of the traffic to villagevoice.com
 
 ## Vespa Technologies Consulting
 
-#### Marvel LLC
+My consulting company from 2003 until 2008.
+
+#### Marvel Entertainment
 * Initially hired to rebuild a broken RedHat machine with a bad boot sector.  Machine rebuilt and files saved
 * Created Marvel's first online message board in PHP, including a new authentication system and advanced moderation
 * Deep code review and debugging of legacy PHP code
@@ -102,7 +113,6 @@ senior web designer both remotely and locally.
 * Built fully functional LAMP driven site including secure login, shopping cart, transaction processing, and complex inventory management from wireframes and workflows  under anticipation of very heavy traffic.
 * Responsible for deliverables on weekly builds and for meeting very aggressive project goals.
 * Managed Junior Developer to ensure timely deliverables and effective team communication.
-
 
 #### Elephant Ventures
 * Performed Salesforce implementation and configuration for brokers in Fortune 500 real estate company (Prudential Douglas Elliman)
@@ -124,12 +134,3 @@ senior web designer both remotely and locally.
 * Wrote technical specs based off of non-technical project documents for offshore team to use. Created and implemented new data model and object models for entirety of organization.
 * Interfaced with all clients with technical questions and requirements, created a project plan for Engineering team to use, and worked with frequently shifting deadlines and priorities to deliver on-time, best of class applications.
 
-## Village Voice Media
-* Senior Web Developer in 3-man team. During my time there, the Village Voice website increased its traffic to 6 million visitors/month, and was nominated for its first Webby Award.
-* Built full "adult" website for Village Voice including events calendar, image/photo upload and sizing classes, RSS syndication, and login
-* Took over as Executive Manager for Technical Support for the annual Pazz & Jop music critics poll for both 2005 and 2006. This poll was the largest of its kind, allowing for free-form data entry by critics voting for their favorite albums. Rebuilt entire system to allow for greater management, flexibility, and stability. Developed and implemented cron-based soundex and metaphonic matching of title/artist/label names entered by critics, AJAX interfaces for administrators to perform on-the-fly matching of critic entries with existing albums in database, "sanity checking" to backend processes (bringing error rate of entries to zero), and "advanced" searching to augment existing GSA integration.
-* Heavy re-configuration and integration of SugarCRM (an Open Source CRM tool similar to SalesForce) into existing corporate structure. Rewrite was entirely in OO PHP and JSON.
-* After failure of sync'ing between different web servers, wrote Python-based tools to send failure and usage alerts to management.
-* Part of two-man team that added photo gallery functionality on villagevoice.com website.
-* Configured headers in villagevoice.com website to obtain low-hanging fruit for SEO. Configured GSA and modified XSLT for displaying Village Voice search data. Three months after configuration was completed, saw a consistent increase in web traffic by 25%
-* Introduced concept of Podcasting to organization. Recorded two podcasts a week (Michael Musto, Robert Christgau) using SoundForge and Audacity. At the time, the podcasts generated roughly 10% of the traffic to villagevoice.com
