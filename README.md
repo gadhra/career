@@ -8,7 +8,7 @@ All the really specific stuff I did at various jobs that won't fit on my resume
 ********************************************************************************
 ```
 
-*You can read articles by me or about my work [here](https://github.com/gadhra/career/blob/articles.md)*
+*You can read articles by me or about my work [here](https://github.com/gadhra/career/blob/master/articles.md)*
 
 ## University of Massachusetts Amherst
 * Manage and oversee eight staff serving 29,000 students and 1,300 faculty.
