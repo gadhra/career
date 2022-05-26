@@ -10,6 +10,16 @@ All the really specific stuff I did at various jobs that won't fit on my resume
 
 *You can read articles by me or about my work [here](https://github.com/gadhra/career/blob/master/articles.md)*
 
+## Amherst College
+* Manage and oversee nine staff (both remote and on-campus), serving 2,000 students and roughly 2,000 faculty and staff across 1,000 acres of land (and beyond!). Staff includes networking professionals, Windows and Linux systems administrators, HPC administrators, and PBX administrators.
+* Instrumental in shifting entirety of campus to remote only instruction; continue to support hybrid model for Amherst College staff.
+* Manage multimillion dollar budget for systems and networking gear on campus. Project manage large, multi-departmental capital and construction projects that include power, phone, and fiber components.
+* Manage entirety of cloud presence (AWS and Azure) - including architecture and configuration - for entire enterprise.
+* Manage Amherst College's high performance compute loads located at the [MGHPCC](https://www.mghpcc.org/) - including architecture, maintenance, and configuration.
+* Wrote, tested, and deployed Ansible scripts to configure and manage Aruba switch gear (MDFs and IDFs).
+* Introduced ITIL4 processes at Amherst College, including change management and documentation.
+* Member of the Diversity, Equity, and Inclusion hiring committee;  HPC Advisory committee; and Change Management committee.
+
 ## University of Massachusetts Amherst
 * Manage and oversee eight staff serving 29,000 students and 1,300 faculty.
 * Ran enterprise DNS (using InfoBlox) for umass.edu and its subdomains.
@@ -23,63 +33,55 @@ All the really specific stuff I did at various jobs that won't fit on my resume
 * Spearheaded cloud migration.  Ran AWS pilot for campus.
 * Created new architecture for alumni to receive a "forever account" - a Google education account that they can use in perpetuity after graduation.  This involved the creation of an entirely separate enterprise authentication architecture and shifting authentication for 35,000+ users to the new endpoint
 * Negotiated contracts and managed budget requests for Akamai (bringing a CDN to the campus for the first time), Redhat, and AWS (ongoing)
- 
-
 
 ## SportsBlog.com
-* Assisted in rearchitecture from home grown PHP system to Django
+* Assisted in rearchitecture from home grown PHP system to Django.
 * Rebuilt environment in AWS to use elastic load balancing, caching, and autoscaling.  Setup IAM management. 
 * Setup and configured Jenkins and Puppet for continuous integration.  
 * Migrated partners to Wordpress architecture and increased uptime to 5 9s. 
-* Planned, wrote, and implemented backend parser to take Wordpress xml exports and import them into SportsBlog db 
-* Planned, wrote, and implemented iron.io workers to handle asymmetric processing
-* Planned, wrote, and implemented CMS for SportsBlog QA and HelpDesk employees
-* Planned, wrote, and implemented Wordpress plugins for partners (including the National Basketball Players Association)
-* Planned, wrote, and implemented a stats and revenue system
+* Planned, wrote, and implemented backend parser to take Wordpress xml exports and import them into SportsBlog db .
+* Planned, wrote, and implemented iron.io workers to handle asymmetric processing.
+* Planned, wrote, and implemented CMS for SportsBlog QA and HelpDesk employees.
+* Planned, wrote, and implemented Wordpress plugins for partners (including the National Basketball Players Association).
+* Planned, wrote, and implemented a stats and revenue system.
 * Leveraged the Mechanical Turk API to create a commenting system to seed user posts.  
 * Leveraged the PHP NLP library to create a “related to” system for our bloggers.
 
 ## WIRED
-
 * Spearheaded the Pangea Project, consolidating 17 disparate blogs into one to eliminate a fascinating amount of technical debt.  Read my [post-mortem memo](https://github.com/gadhra/career/blob/master/pangea_memo.md) for more information.
 * Managed website running on Wordpress core, receiving ~24m unique visitors and serving up ~100m pageviews / month.  
-* Helped to architect and develop the Station to Station website - a fully immersive website in the vein of the NY Times "Snow Fall".  This was the first site of its type on wired.com
+* Helped to architect and develop the Station to Station website - a fully immersive website in the vein of the NY Times "Snow Fall".  This was the first site of its type on wired.com.
 * Tripled size of web team.  Managed  frontend developers, backend developers, and project managers.  Mentored junior and senior developers.  
 * Introduced Agile development methodologies and bug / enhancement prioritization and tracking. 
-* Built full development environment, including the implementation of vagrant virtual machines, Grunt, and Jenkins
+* Built full development environment, including the implementation of vagrant virtual machines, Grunt, and Jenkins.
 * Worked closely with Editor in Chief (online), Director of Product Management, and GM of Sales to implement strategic technologies to support both ad sales and world-class editorial content.  Worked with technical team at Conde Nast (New York, NY) to mesh brand priorities with corporate mandates and efforts.
 
 
 ## Telltale Games
-
-* Game credits include: The Walking Dead (PC, Mac, Steam, iOS, XBox, PS3); Law and Order: Legacies (iOS, PC, Mac); Jurassic Park (PC, iOS, PS3, XBox); the mini-game "Whack da Ratz" in  Sam & Max Beyond Time and Space Ep 1; and Puzzle Agent 2 (iOS)
-* Grew the web-team from one senior developer to six members (2 senior engineers, 1 Art Director, 1 Junior Designer, 1 QA Specialist, and 1 Project Manager).  Implemented Agile methodologies, most notably a Continuous Integration process using Hudson as well as static front-end page caching via Node.js and Hogan
+* Game credits include: The Walking Dead (PC, Mac, Steam, iOS, XBox, PS3); Law and Order: Legacies (iOS, PC, Mac); Jurassic Park (PC, iOS, PS3, XBox); the mini-game "Whack da Ratz" in  Sam & Max Beyond Time and Space Ep 1; and Puzzle Agent 2 (iOS).
+* Grew the web-team from one senior developer to six members (2 senior engineers, 1 Art Director, 1 Junior Designer, 1 QA Specialist, and 1 Project Manager).  Implemented Agile methodologies, most notably a Continuous Integration process using Hudson as well as static front-end page caching via Node.js and Hogan.
 * Created Telltale's web services for game integration by writing a lightweight PHP-based API to handle authentication, caching, notifications, and the saving of large, unstructured datasets to NoSQL (CouchDB) data shards.  API also allowed for DLC and game patching.
-* Managed and development of complete website redesign, including eCommerce solution for purchasing physical and digital goods; a fully functional message board with advanced moderation; and integration with accounts in the game environment (activities taken in a game would be reflected in your profile on the website)
-* Implemented document-oriented database (CouchDB) to augment LAMP-based technology framework. Wrote Python scripts to help in management of this database, including web-enabled scripts using WSGI
-* Converted stand-alone, Loebner Prize winning chatbot to a socket-based web service
-* Architected and took lead development of a new web server architecture, including addition of a MySQL master/slave, an app / messaging server, and CouchDB shards for mining of game data
-* Implemented a notification server using redis to distribute messaging to multiple platforms, including the web
+* Managed and development of complete website redesign, including eCommerce solution for purchasing physical and digital goods; a fully functional message board with advanced moderation; and integration with accounts in the game environment (activities taken in a game would be reflected in your profile on the website).
+* Implemented document-oriented database (CouchDB) to augment LAMP-based technology framework. Wrote Python scripts to help in management of this database, including web-enabled scripts using WSGI.
+* Converted stand-alone, Loebner Prize winning chatbot to a socket-based web service.
+* Architected and took lead development of a new web server architecture, including addition of a MySQL master/slave, an app / messaging server, and CouchDB shards for mining of game data.
+* Implemented a notification server using redis to distribute messaging to multiple platforms, including the web.
 
 ## MAKE Magazine (O'Reilly)
-
 * Sole backend programmer/systems administrator and lead on technical projects for Maker Media.  Managed day-to-day operations of all of Maker Media's web properties, including makezine.com, craftzine.com, makeprojects.com, and makershed.com (our eCommerce solution running on Volusion). 
-* Wrote project and technical specifications and shepherded all technical projects to completion.  Provided strategic technical direction to heads of Sales, Marketing, Publishing, Editorial, and directly to the Founder of Maker Media
+* Wrote project and technical specifications and shepherded all technical projects to completion.  Provided strategic technical direction to heads of Sales, Marketing, Publishing, Editorial, and directly to the Founder of Maker Media.
 * Managed junior developer - upon her acceptance of another opportunity, moved to a strategic sourcing model to assist with implementation of several key projects. 
 * Managed consultants both remotely and in-house in positions ranging from web developer to web designer to systems administrator.
-* Wrote project specifications and handled project management through to project completion with stakeholders
-* Transitioned the Make: Blog (5 million pageviews/month) from a legacy Movable Type install on a managed box to a load-balanced Wordpress install in the AWS cloud. Handled server setup (2 load
-balancers, 4-n PHP App servers, dedicated memcache machine, and MySQL master-slave setup), data migration (using a combination of straight MySQL and Python to port data), site configuration, caching, troubleshooting, and enhancements. Wrote numerous PHP hooks to WP core files in order to keep our content environment out of the Wordpress core. Created a dev->staging->production environment so this could scale appropriately.
+* Wrote project specifications and handled project management through to project completion with stakeholders.
+* Transitioned the Make: Blog (5 million pageviews/month) from a legacy Movable Type install on a managed box to a load-balanced Wordpress install in the AWS cloud. Handled server setup (2 load balancers, 4-n PHP App servers, dedicated memcache machine, and MySQL master-slave setup), data migration (using a combination of straight MySQL and Python to port data), site configuration, caching, troubleshooting, and enhancements. Wrote numerous PHP hooks to WP core files in order to keep our content environment out of the Wordpress core. Created a dev->staging->production environment so this could scale appropriately.
 * Wired entire NYSCI campus for the World Maker Faire in Corona Park, Queens.  Ran cables, set up point-to-point wireless network, and configured secured nodes for paid sponsors.  
 * Helped write the Open Manual Project in conjunction with iFixit, the partner hosting our Make: Projects web assets.  oManual is a simple, open XML-based standard for semantic, multimedia-rich procedural manuals.
 * Voting member of the O'Reilly I.T. Governance Review Board, responsible for reviewing all submitted IT investment projects and validating whether they align to organizational goals; determining relative priority and sequencing of all I.T. investment projects; and providing a forum to make decisions supporting the broader growth goals of O'Reilly Media.
-* Implemented basic agile development environment. Encouraged other groups to submit user stories. Wrote, advocated, and implemented several key processes for organization to push projects through a
-measurable workflow.
+* Implemented basic agile development environment. Encouraged other groups to submit user stories. Wrote, advocated, and implemented several key processes for organization to push projects through a measurable workflow.
 * Created numerous custom-coded campaigns (Perl, PHP 5 [including CakePHP], some Python [including Django]) in conjunction with Sales to bring Make to profitability.
 
 ## Reputation.com
-* Managed team of two senior developers, two junior developers, one systems administrator, one QA tester, and one
-senior web designer both remotely and locally.
+* Managed team of two senior developers, two junior developers, one systems administrator, one QA tester, and one senior web designer both remotely and locally.
 * Worked directly with CEO, CTO, and COO to develop products from initial "brainstorming" phase to production quality code, alternating between agile and predictive methodologies where appropriate. As company grew, became primary liaison between product management / marketing teams and engineering department.
 * Prior to hiring systems administrator, set up and managed 15 CentOS servers, including 5 webservers behind 2 F5 load balancers, 5 MySQL databases in a master/slave configuration, and 2 media servers mounted as NFS drives in both a production and development environment. Management included setup and configuration of PHP, Subversion, Apache (including SSL), Python, Tomcat, Java, monitoring, security auditing and tightening, writing management tools in Python and bash, and building custom installs from source.
 * Prior to hiring QA tester, set up and managed PHP unit tests over Selenium to automate testing of all critical systems.
@@ -89,7 +91,7 @@ senior web designer both remotely and locally.
 
 ## Village Voice Media
 * Senior Web Developer in 3-man team. During my time there, the Village Voice website increased its traffic to 6 million visitors/month, and was nominated for its first Webby Award.
-* Built full "adult" website for Village Voice including events calendar, image/photo upload and sizing classes, RSS syndication, and login
+* Built full "adult" website for Village Voice including events calendar, image/photo upload and sizing classes, RSS syndication, and login.
 * Took over as Executive Manager for Technical Support for the annual Pazz & Jop music critics poll for both 2005 and 2006. This poll was the largest of its kind, allowing for free-form data entry by critics voting for their favorite albums. Rebuilt entire system to allow for greater management, flexibility, and stability. Developed and implemented cron-based soundex and metaphonic matching of title/artist/label names entered by critics, AJAX interfaces for administrators to perform on-the-fly matching of critic entries with existing albums in database, "sanity checking" to backend processes (bringing error rate of entries to zero), and "advanced" searching to augment existing GSA integration.
 * Heavy re-configuration and integration of SugarCRM (an Open Source CRM tool similar to SalesForce) into existing corporate structure. Rewrite was entirely in OO PHP and JSON.
 * After failure of sync'ing between different web servers, wrote Python-based tools to send failure and usage alerts to management.
