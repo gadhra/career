@@ -18,6 +18,7 @@ All the really specific stuff I did at various jobs that won't fit on my resume
 * Manage Amherst College's high performance compute loads located at the [MGHPCC](https://www.mghpcc.org/) - including architecture, maintenance, and configuration.
 * Wrote, tested, and deployed Ansible scripts to configure and manage Aruba switch gear (MDFs and IDFs).
 * Introduced ITIL4 processes at Amherst College, including change management and documentation.
+* Solely responsible for SSO on campus - including Shibboleth, Kerberos, and 2FA (Duo)
 * Member of the Diversity, Equity, and Inclusion hiring committee;  HPC Advisory committee; and Change Management committee.
 
 ## University of Massachusetts Amherst
